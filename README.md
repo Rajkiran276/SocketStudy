@@ -2,7 +2,6 @@
 # Reg No : 212222043006
 # Ex.No:1a  			Study of Socket Programming
 
-
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
